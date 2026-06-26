@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kisshore 👋
 
-<!--
-**kisshre/kisshre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Graduate
 
-Here are some ideas to get you started:
+💻 Python Developer | Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- Flask
+- Git & GitHub
+- REST APIs
+
+
+🌱 Currently Learning
+- Python Full Stack Development
+- Django
+- React
+
+📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/kisshore-m-51960228a/
+Email: kisshore0407@gmail.com
