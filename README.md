@@ -1,5 +1,5 @@
 <a href="https://github.com/kisshore-m">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=190&section=header&text=Kisshore%20M&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Building%20Scalable%20Web%20Applications%20with%20Python%20%26%20Modern%20Technologies&descAlignY=60&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Kisshore%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=18" />
 </a>
 
 <div align="center">
