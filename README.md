@@ -1,4 +1,4 @@
-<a href="https://github.com/kisshore-m">
+<a href="https://github.com/kisshre">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Kisshore%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=18" />
 </a>
 
@@ -155,8 +155,8 @@ class Kisshore:
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [**FRAUD-X — Financial Fraud Detection System**](https://github.com/kisshore-m) | Python · FastAPI · PostgreSQL · ML · WebSocket | AI-powered anomaly detection for financial transactions; real-time dashboard with live transaction monitoring; SHA-256 blockchain ledger; heuristic risk scoring engine; REST + WebSocket architecture |
-| [**Student Database Management System**](https://github.com/kisshore-m) | HTML · CSS · JavaScript · SQL | Full CRUD database management for student records; clean web-based interface built with standard web tools |
+| [**FRAUD-X — Financial Fraud Detection System**](https://github.com/kisshre) | Python · FastAPI · PostgreSQL · ML · WebSocket | AI-powered anomaly detection for financial transactions; real-time dashboard with live transaction monitoring; SHA-256 blockchain ledger; heuristic risk scoring engine; REST + WebSocket architecture |
+| [**Student Database Management System**](https://github.com/kisshre) | HTML · CSS · JavaScript · SQL | Full CRUD database management for student records; clean web-based interface built with standard web tools |
 
 </div>
 
@@ -209,8 +209,8 @@ class Kisshore:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kisshore--m-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kisshore-m-51960228a/)
 [![Email](https://img.shields.io/badge/Email-kisshore0407@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kisshore0407@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kisshore--m-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisshore-m)
-[![Profile Views](https://komarev.com/ghpvc/?username=kisshore-m&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/kisshore-m)
+[![GitHub](https://img.shields.io/badge/GitHub-kisshore--m-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisshre)
+[![Profile Views](https://komarev.com/ghpvc/?username=kisshore-m&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/kisshre)
 
 </div>
 
