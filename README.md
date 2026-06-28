@@ -16,7 +16,7 @@
 
 ```python
 class Kisshore:
-    name        = "Kisshore M"
+    name        = "Kisshore"
     location    = "Puducherry, India"
     degree      = "B.Tech — Computer Science & Engineering (2026)"
     cgpa        = 8.8
@@ -24,7 +24,7 @@ class Kisshore:
     stack = [
         "Python", "FastAPI", "PostgreSQL",
         "HTML", "CSS", "JavaScript",
-        "C", "C++", "Java", "Wagtail CMS"
+        "C", "C++", "Wagtail CMS"
     ]
 
     currently_learning = [
