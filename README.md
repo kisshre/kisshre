@@ -1,9 +1,9 @@
-<a href="https://github.com/kisshre">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Kisshore%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=18" />
-</a>
+<a href="https://github.com/kisshre"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Kisshore%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Backend%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" /> </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Kisshore+%F0%9F%91%8B;CSE+Graduate+%7C;Python+%2B+FastAPI+%2B+PostgreSQL+Developer;AI+%2F+ML+%7C+Real-Time+Systems+Builder;IBM+AI+Certified+%E2%80%94+Always+Learning" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Kisshore+%F0%9F%91%8B;CSE+Graduate+%7C+Puducherry%2C+India;Python+%7C+FastAPI+%7C+Django+Developer;Full+Stack+%7C+REST+API+%7C+PostgreSQL;AI%2FML+%7C+Real-Time+Systems+Builder" alt="Typing SVG" />
+
 </div>
 
 <br/>
