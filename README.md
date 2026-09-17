@@ -197,7 +197,7 @@ class Kisshore:
 * Built an interactive monitoring dashboard with **live fraud alerts**
 * Iterated the UI from an initial concept into a clean, professional **SaaS-style interface**
 
-🔗 [**View Project →**]((https://github.com/kisshre/Fraud-Detection-System))
+🔗 [**View Project →**](https://github.com/kisshre/Fraud-Detection-System)
 
 ---
 
@@ -213,7 +213,7 @@ class Kisshore:
 * Resolved multithreading issues between the **voice recognition pipeline and Tkinter UI thread**
 * Redesigned the interface through multiple iterations to improve usability
 
-🔗 [**View Project →**](https://github.com/kisshre/Fraud-Detection-System)
+🔗 [**View Project →**](https://github.com/kisshre/Missing-Object-Detection)
 
 ---
 
