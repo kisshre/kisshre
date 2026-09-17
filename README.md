@@ -4,13 +4,11 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Kisshore+%F0%9F%91%8B;B.Tech+CSE+Graduate+%7C+Tamil Nadu%2C+India;Python+%7C+FastAPI+%7C+Django+Developer;REST+APIs+%7C+PostgreSQL+%7C+React.js;AI%2FML+%7C+Real-Time+Systems+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Kisshore+%F0%9F%91%8B;B.Tech+CSE+Graduate+%7C+Tamil+Nadu%2C+India;Python+%7C+FastAPI+%7C+Django+Developer;REST+APIs+%7C+PostgreSQL+%7C+React.js;AI%2FML+%7C+Real-Time+Systems+Builder" alt="Typing SVG" />
 
 </div>
 
 <br/>
-
-
 
 ---
 
@@ -20,15 +18,23 @@
 
 ```python
 class Kisshore:
-    name        = "Kisshore"
-    location    = "Puducherry, India"
-    degree      = "B.Tech — Computer Science & Engineering (2026)"
-    cgpa        = 8.8
+    name = "Kisshore"
+    location = "Puducherry, India"
+    degree = "B.Tech — Computer Science & Engineering (2026)"
+    cgpa = 8.8
 
     stack = [
-        "Python", "FastAPI", "PostgreSQL",
-        "HTML", "CSS", "JavaScript",
-        "C", "C++", "Wagtail CMS"
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "React.js",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "C",
+        "C++",
+        "REST APIs"
     ]
 
     currently_learning = [
@@ -53,16 +59,16 @@ class Kisshore:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square\&logo=postgresql\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square\&logo=postgresql\&logoColor=white)
 
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square\&logo=fastapi\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square\&logo=fastapi\&logoColor=white)
 
 **Frontend**
 
@@ -76,13 +82,6 @@ class Kisshore:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 
-**AI / ML**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-6E40C9?style=flat-square\&logo=databricks\&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square\&logo=yolo\&logoColor=white)
-
 **Tools & Technologies**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
@@ -90,14 +89,20 @@ class Kisshore:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
+**AI / ML**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-6E40C9?style=flat-square\&logo=databricks\&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square\&logo=yolo\&logoColor=white)
+
 **Core Concepts**
 
 `OOP` · `CRUD` · `DBMS` · `REST APIs` · `Machine Learning` · `Anomaly Detection`
 
-
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -113,7 +118,7 @@ class Kisshore:
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak
 
 <div align="center">
 
@@ -123,7 +128,7 @@ class Kisshore:
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -133,7 +138,7 @@ class Kisshore:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -142,7 +147,6 @@ class Kisshore:
 </div>
 
 ---
-
 
 ## 💼 Work Experience
 
@@ -211,21 +215,19 @@ class Kisshore:
 
 🔗 [**View Project →**](https://github.com/kisshre)
 
-</div>
-
 ---
 
 ## 🎖️ Achievements & Certifications
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|:---:|:---|:---|
-| 🤖 | **IBM SkillBuild — Artificial Intelligence** | Certified in AI fundamentals via IBM SkillBuild |
-| 🎧 | **IBM SkillBuild — AI for Customer Service** | Certified in AI-enabled customer service applications |
-| 📱 | **Workshop — Android Studio** | Hands-on Android development workshop completion |
-| 🔒 | **Final Year Project — FRAUD-X** | Built end-to-end AI fraud detection system (Jan–May 2026) |
-| 🌐 | **Research Institute Internship** | Selected for IFP (French Institute of Pondicherry) internship, Department of Geomatics |
+|  🏅 | Achievement                                  | Details                                                                                |
+| :-: | :------------------------------------------- | :------------------------------------------------------------------------------------- |
+|  🤖 | **IBM SkillBuild — Artificial Intelligence** | Certified in AI fundamentals via IBM SkillBuild                                        |
+|  🎧 | **IBM SkillBuild — AI for Customer Service** | Certified in AI-enabled customer service applications                                  |
+|  📱 | **Workshop — Android Studio**                | Hands-on Android development workshop completion                                       |
+|  🔒 | **Final Year Project — FRAUD-X**             | Built end-to-end AI fraud detection system (Jan–May 2026)                              |
+|  🌐 | **Research Institute Internship**            | Selected for IFP (French Institute of Pondicherry) internship, Department of Geomatics |
 
 </div>
 
@@ -235,9 +237,9 @@ class Kisshore:
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:---|:---|:---:|:---:|
-| B.Tech — Computer Science & Engineering | Christ College of Engineering and Technology, Puducherry | 2026 | 8.8 / 10 |
+| Degree                                  | Institution                                              | Year |   Score   |
+| :-------------------------------------- | :------------------------------------------------------- | :--: | :-------: |
+| B.Tech — Computer Science & Engineering | Christ College of Engineering and Technology, Puducherry | 2026 | 8.82 / 10 |
 
 </div>
 
@@ -245,7 +247,7 @@ class Kisshore:
 
 ## 🧱 Currently Learning
 
-```
+```text
 🐳 Docker               → Containerisation, docker-compose, image building
 ☁️  Cloud Deployment     → AWS EC2 / Railway / Render for Python backends
 🧠 LLM / GenAI          → Prompt engineering, LangChain, API integration
@@ -260,10 +262,13 @@ class Kisshore:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kisshore--m-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kisshore-m-51960228a/)
-[![Email](https://img.shields.io/badge/Email-kisshore0407@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kisshore0407@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kisshore--m-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisshre)
-[![Profile Views](https://komarev.com/ghpvc/?username=kisshore-m&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/kisshre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kisshore--m-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kisshore-m-51960228a/)
+
+[![Email](https://img.shields.io/badge/Email-kisshore0407%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:kisshore0407@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-kisshre-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/kisshre)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kisshore-m\&style=flat-square\&color=70a5fd\&label=Profile+Views)](https://github.com/kisshre)
 
 </div>
 
