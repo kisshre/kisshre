@@ -141,25 +141,28 @@ class Kisshore:
 
 <br/>
 
-> ![Wagtail](https://img.shields.io/badge/Wagtail_CMS-43B1B0?style=flat-square&logo=wagtail&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+> ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+> ![Wagtail](https://img.shields.io/badge/Wagtail_CMS-43B1B0?style=flat-square\&logo=wagtail\&logoColor=white)
 
-- Performed UI/UX updates and content management workflows using **Wagtail CMS** for the Department of Geomatics
-- Handled backend database operations with **PostgreSQL**, maintaining research data integrity across the department
-- Collaborated directly with researchers and supervisors in a bilingual (French/English) research environment
-- Gained hands-on exposure to real-world web infrastructure in a government-affiliated research institute
+* Developed a prototype of the organization's main website using **Django and Wagtail CMS**
+* Improved **UI/UX, page structure, and overall user experience**
+* Collaborated with researchers and team members to understand requirements and gather feedback
+* Refined the website prototype based on team and user feedback
 
 </details>
 
 <details>
-<summary><strong>MSME Internship</strong> — Python Development | Sep 2025 – Nov 2025</summary>
+<summary><strong>MSME</strong> — Python Development Intern | Sep 2025 – Nov 2025</summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+> ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square\&logo=arduino\&logoColor=white)
 
-- Completed Python development work under the MSME internship program
-- Gained hands-on experience with IoT projects, bridging software and hardware integration
-- Applied Python scripting skills to real-world automation and embedded use cases
+* Built practical **Python scripts and tools** for IoT-related development tasks
+* Applied Python programming to real-world development requirements
+* Gained hands-on experience translating requirements into **working software**
 
 </details>
 
@@ -167,12 +170,36 @@ class Kisshore:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🔐 FRAUD-X — AI-Powered Financial Fraud Detection System
 
-| Project | Stack | Highlights |
-|:---|:---|:---|
-| [**FRAUD-X — Financial Fraud Detection System**](https://github.com/kisshre) | Python · FastAPI · PostgreSQL · ML · WebSocket | AI-powered anomaly detection for financial transactions; real-time dashboard with live transaction monitoring; SHA-256 blockchain ledger; heuristic risk scoring engine; REST + WebSocket architecture |
-| [**Student Database Management System**](https://github.com/kisshre) | HTML · CSS · JavaScript · SQL | Full CRUD database management for student records; clean web-based interface built with standard web tools |
+**Jan 2026 – May 2026**
+
+`Python` · `FastAPI` · `PostgreSQL` · `WebSockets` · `Machine Learning`
+
+* Engineered a **real-time fraud detection backend** using FastAPI and PostgreSQL
+* Implemented **anomaly detection models** to flag suspicious financial transactions
+* Supported multiple concurrent **WebSocket channels** for real-time transaction monitoring
+* Designed a **SHA-256 blockchain-style ledger** to create a tamper-evident audit trail
+* Built an interactive monitoring dashboard with **live fraud alerts**
+* Iterated the UI from an initial concept into a clean, professional **SaaS-style interface**
+
+🔗 [**View Project →**](https://github.com/kisshre)
+
+---
+
+### 👁️ Smart Object Detection App with Voice Control
+
+**2026**
+
+`Python` · `YOLOv8` · `Tkinter` · `Vosk` · `Google Speech-to-Text` · `pyttsx3`
+
+* Built a **real-time household object detection application** using YOLOv8
+* Integrated voice commands using **Vosk / Google Speech-to-Text**
+* Added voice responses using **pyttsx3**
+* Resolved multithreading issues between the **voice recognition pipeline and Tkinter UI thread**
+* Redesigned the interface through multiple iterations to improve usability
+
+🔗 [**View Project →**](https://github.com/kisshre)
 
 </div>
 
